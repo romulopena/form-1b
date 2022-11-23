@@ -27,5 +27,6 @@ td{
 	background: rgb(82, 13, 109);
 	border: 3px solid;
 	border-style: double;
-	color:greenyellow
+	color:greenyellow;
+	font-size: 30px;
 }
